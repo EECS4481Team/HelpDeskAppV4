@@ -1,6 +1,6 @@
 # HelpDeskAppV4
 
-HelpDeskAppV4 is a web-based chat app that is in a candidate build
+HelpDeskAppV4 is a web-based chat app that is in a candidate build.
 
 ## Before You Start (Locally)
 
@@ -87,7 +87,7 @@ JWT_KEY="resxg9ks28Diii1JbbpFDEQu7fsGXMg6BDnOq3N6"
 COOKIE_KEY="opiu!$!$498NT2Yp/[/10P83)*(&{}:>:9FRp/7YIwh;/hgwtresthE"
 ```
 
-You can start the backend with
+You can start the backend with:
 ```bash
 npm start
 ```
